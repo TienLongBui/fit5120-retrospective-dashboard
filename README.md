@@ -2,7 +2,7 @@
 
 This is TA26 Retrospective dashboard every iteration for FIT5120
 
-Try the interative dashboard without pulling request with the link below: 
+Try the interative dashboard without pulling request with the link: 
 https://fit5120-retrospective-dashboard.streamlit.app/
 
 *Note: Get the sample data from our responses here with the file name: "Retrospective form (Responses).xlsx"*
