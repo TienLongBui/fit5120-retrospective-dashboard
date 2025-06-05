@@ -2,6 +2,11 @@
 
 This is TA26 Retrospective dashboard every iteration for FIT5120
 
+Try the interative dashboard without pulling request with the link below: 
+https://fit5120-retrospective-dashboard.streamlit.app/
+
+Note: Get the sample data from our responses here with the file name: "Retrospective form (Responses).xlsx"
+
 An interactive dashboard for analyzing and visualizing **team retrospective survey data** collected across multiple iterations. 
 Designed to help educators, facilitators, or team leaders gain insight into group dynamics, psychological safety, and written reflections from teams.
 
